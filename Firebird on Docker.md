@@ -9,7 +9,7 @@ tag `firebird`  `docker` `client connect`  `server-linux`  `client-windows`
 ลองทำผ่านอินเตอร์เน็ต ได้บ้างไม่ได้บ้าง ก็ถือว่าดี <BR>
 ถ้าใน LAN ก็ใช้งานได้ดี ** แต่ขาดคู่มือ และตัวอย่าง ** <BR>
 
-![Pasted image 20231002115500.png]
+![[Pasted image 20231002115500.png](https://firebirdsql.org/img/site/firebird.png)]
 
 ## ลิงค์ที่เกี่ยวข้อง
 Firebird Database <BR>
