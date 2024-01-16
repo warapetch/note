@@ -10,9 +10,9 @@ https://github.com/Embarcadero/DelphiVCL4Python/blob/main/samples/Installer/read
 ### ตัวอย่างสคริปที่สามารถ สร้างไฟล์ EXE แบบ ไฟล์เดียว  <br/>
 ### Example script that can create a single EXE file.  <br/>
 
-> onefile EXE
-> icon 
-> run at `.tmp` folder
+> onefile EXE  <br/>
+> icon   <br/>
+> run at `.tmp` folder  <br/>
 
 ```python
 pyinstaller 
