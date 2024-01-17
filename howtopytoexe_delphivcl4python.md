@@ -72,3 +72,9 @@ exe = EXE(
     icon=['reader.ico'],
 )
 ```
+
+### เมื่อมีไฟล์ main.spec แล้ว  
+ก็สามารถใช้คำสั่งง่ายๆ เช่น  
+```
+pyinstaller main.spec
+```
