@@ -1,8 +1,17 @@
 # DelphiVCL4Python
 ## How To PY-TO-EXE
 
-จากคำแนะนำของผู้พัฒนา  
+### สารตั้งต้น DelphiVCL for Python
+```
+https://github.com/Embarcadero/DelphiVCL4Python/
+https://pypi.org/project/delphivcl/
+```
+---
+ปัญหา PY-TO-EXE แล้ว
+DelphiVCL module not found !!
+---
 
+จากคำแนะนำของผู้พัฒนา ในการทำ  
 ```
 https://github.com/Embarcadero/DelphiVCL4Python/blob/main/samples/Installer/readme.md  
 ```
@@ -77,4 +86,10 @@ exe = EXE(
 ก็สามารถใช้คำสั่งง่ายๆ เช่น  
 ```
 pyinstaller main.spec
+```
+
+### นำไฟล์ EXE ที่ได้ ไปทดสอบเรื่อง Virus  
+ที่ virustotal.com ผลที่ได้คือ 4/ 63
+```
+https://www.virustotal.com/gui/file/20bea38ec1bece4b1c38adc75aa2fec127e2907c18d41b91534c67e0eb418162/detection
 ```
