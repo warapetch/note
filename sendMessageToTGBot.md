@@ -1,3 +1,6 @@
+// ไฟล์รูปแบบ Google Apps Script
+// https://github.com/warapetch/note/blob/master/sendToTelegramBot.gs
+
 let botToken = "YOUR_TOKEN";
 let botChatID = ["YOUR_CHAT_ID"]
 
